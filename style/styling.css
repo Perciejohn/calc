@@ -1,0 +1,35 @@
+button {
+	background-color: lightgray;
+	width: 57px;
+	height: 57px;
+	border: 0.5px solid;
+	font-size: 30px;
+	margin: 1px;
+	
+	
+}
+
+button:hover{
+	background-color:azure;
+	
+}
+
+#clean{
+	font-size:20px;
+}
+
+#main  {
+	width: 185px;
+	background-color: azure
+	
+	
+}
+
+#main h1{
+	text-align: center;
+	
+}
+
+input {
+	text-align: right;
+}
